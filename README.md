@@ -22,6 +22,11 @@ To explore the Calculator Website:
 
 3. Start using the calculator to perform arithmetic calculations effortlessly!
 
+## Website Images
+
+Here is a screenshot of the Calculator Website:
+![image](https://github.com/ismaildrs/calculator_app/assets/104438360/c1bb225e-9141-458f-8883-da0887943ec3)
+
 ## Feedback
 
 Your feedback is valuable in helping me improve my JavaScript skills and enhance the Calculator Website. If you encounter any issues, have suggestions for improvements, or want to share your thoughts, please don't hesitate to open an issue on GitHub.
